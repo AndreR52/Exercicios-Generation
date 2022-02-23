@@ -1,2 +1,2 @@
 # Exercicios-Generation
-Lista de exercicios feitos durante o curso de Java na Generation
+Lista de exercicios de lógica no Portugol
